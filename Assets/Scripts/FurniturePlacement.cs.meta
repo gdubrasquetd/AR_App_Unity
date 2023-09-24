@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb8efe7235b9ceb4e9592a1dd8e85ac9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SpawnableFurniture: {fileID: 1860114211379629202, guid: 847548ba2ccc0d9428815e00881fd8af, type: 3}
+  - sessionOrigin: {instanceID: 0}
+  - raycastManager: {instanceID: 0}
+  - planeManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
