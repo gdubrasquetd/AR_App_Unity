@@ -33,26 +33,32 @@ Buttons:
 
 ### 2. Engine Visualization
 
-To complete
-
-<img src="https://github.com/gdubrasquetd/AR_App_Unity/blob/main/EngineImage.jpg" width="170"/>
-
-### 3. 3D Card Game
-
 The functionality is using basic ARSession from ARFondation and the LeanTouch for the finger touch management.
 The user can zoom, rotate and move the engine and as well activate or not the view of precised components.
 
+<img src="https://github.com/gdubrasquetd/AR_App_Unity/blob/main/EngineImage.jpg" width="170"/>
+
+1 : Horizontal scrolling zone with buttons to show or to hide the corresponding piece.
+
+### 3. 3D Card Game
+
+Visualise 3D characters anchored on the top of cards game and interact with it.
+
 <img src="https://github.com/gdubrasquetd/AR_App_Unity/blob/main/CardImage.jpg" width="170"/>
 
-1 : Horizontal scrolling zone with buttons to show or hide the corresponding piece.
+1 : Remove and reload all objects.
+2 : Lock the rotate axis of all objects.
 
 ## Installation
 
-To complete
-
+Import
 ## Configuration and Usage
 
-To complete
+Running on Unity 2021.3.30f1.
+Create an AR project.
+Switch the plateform of you build to android or iOS on player's settings.
+Check if ARFondation and ARCore (android) or ARKit (iOS) packages are import.
+Import the repository on the Unity project.
 
 ## Author
 
