@@ -1,7 +1,7 @@
 # AR_App_Unity
 
 AR_App_Unity is an mobile application using different tools of Agmented Reality for three differents used. 
-The first one is to try different furniture on a décoration to facilitate furniture choices and purchases.
+The first one is to try different furniture on a decoration to facilitate furniture choices and purchases.
 The second one is to visualize in 3D, the different specific parts of a technical object like a engine. To help you to identife these element and understand it's behavious while you are working on the rela object.  
 The third one is an agmented card game with display 3D models on cards.
 
@@ -17,10 +17,19 @@ https://github.com/gdubrasquetd/AR_App_Unity/assets/58482474/a99ed83c-1fb3-40e5-
 
 ### 1. Furnitures For Interior Decoration
 
-To complete
+The first feature allows the user to preview different furnitures on his decoration. 
+It's facilitate furnishings by testing the size, the color and the position of furnitures.
+The functionality is using ARPlaneManager from ARFondation to detect plane surfaces like a floor, a wall or a table for example.
+The rotation of the objects is using the finger touch management of the LeanTouch library.
 
 <img src="https://github.com/gdubrasquetd/AR_App_Unity/blob/main/FurnitureImage.jpg" width="170"/>
 
+Buttons:
+
+1 : Reload the plane detection to detect new surfaces.
+2 : Delete the last furniture.
+3 : Delete all furniture.
+4 : Horizontal scrolling zone with buttons to select a furniture to place.
 
 ### 2. Engine Visualization
 
@@ -30,9 +39,12 @@ To complete
 
 ### 3. 3D Card Game
 
-To complete
+The functionality is using basic ARSession from ARFondation and the LeanTouch for the finger touch management.
+The user can zoom, rotate and move the engine and as well activate or not the view of precised components.
 
 <img src="https://github.com/gdubrasquetd/AR_App_Unity/blob/main/CardImage.jpg" width="170"/>
+
+1 : Horizontal scrolling zone with buttons to show or hide the corresponding piece.
 
 ## Installation
 
