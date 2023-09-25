@@ -17,52 +17,49 @@ https://github.com/gdubrasquetd/AR_App_Unity/assets/58482474/a99ed83c-1fb3-40e5-
 
 ### 1. Furnitures For Interior Decoration
 
-The first feature allows the user to preview different furnitures on his decoration. 
-It's facilitate furnishings by testing the size, the color and the position of furnitures.
-The functionality is using ARPlaneManager from ARFondation to detect plane surfaces like a floor, a wall or a table for example.
-The rotation of the objects is using the finger touch management of the LeanTouch library.
+The first feature allows the user to preview different furnitures on his decoration. \n
+It's facilitate furnishings by testing the size, the color and the position of furnitures.\n
+The functionality is using ARPlaneManager from ARFondation to detect plane surfaces like a floor, a wall or a table for example.\n
+The rotation of the objects is using the finger touch management of the LeanTouch library.\n
 
 <img src="https://github.com/gdubrasquetd/AR_App_Unity/blob/main/FurnitureImage.jpg" width="170"/>
 
-Buttons:
-
-1 : Reload the plane detection to detect new surfaces.
-2 : Delete the last furniture.
-3 : Delete all furniture.
-4 : Horizontal scrolling zone with buttons to select a furniture to place.
+Buttons:\n
+\n
+1 : Reload the plane detection to detect new surfaces.\n
+2 : Delete the last furniture.\n
+3 : Delete all furniture.\n
+4 : Horizontal scrolling zone with buttons to select a furniture to place.\n
 
 ### 2. Engine Visualization
 
-The functionality is using basic ARSession from ARFondation and the LeanTouch for the finger touch management.
-The user can zoom, rotate and move the engine and as well activate or not the view of precised components.
+The functionality is using basic ARSession from ARFondation and the LeanTouch for the finger touch management.\n
+The user can zoom, rotate and move the engine and as well activate or not the view of precised components.\n
 
 <img src="https://github.com/gdubrasquetd/AR_App_Unity/blob/main/EngineImage.jpg" width="170"/>
 
-1 : Horizontal scrolling zone with buttons to show or to hide the corresponding piece.
+1 : Horizontal scrolling zone with buttons to show or to hide the corresponding piece.\n
 
 ### 3. 3D Card Game
 
-Visualise 3D characters anchored on the top of cards game and interact with it.
+Visualise 3D characters anchored on the top of cards game and interact with it.\n
 
 <img src="https://github.com/gdubrasquetd/AR_App_Unity/blob/main/CardImage.jpg" width="170"/>
 
-1 : Remove and reload all objects.
-2 : Lock the rotate axis of all objects.
+1 : Remove and reload all objects.\n
+2 : Lock the rotate axis of all objects.\n
 
 ## Installation
 
-Import
-## Configuration and Usage
-
-Running on Unity 2021.3.30f1.
-Create an AR project.
-Switch the plateform of you build to android or iOS on player's settings.
-Check if ARFondation and ARCore (android) or ARKit (iOS) packages are import.
-Import the repository on the Unity project.
+Running on Unity 2021.3.30f1.\n
+Create an AR project.\n
+Switch the plateform of you build to android or iOS on player's settings.\n
+Check if ARFondation and ARCore (android) or ARKit (iOS) packages are import.\n
+Import the repository on the Unity project.\n
 
 ## Author
 
-To complete
+Guillaume Dubrasquet-Duval
 
 ## License
 
