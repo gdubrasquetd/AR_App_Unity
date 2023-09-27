@@ -2,7 +2,7 @@
 
 AR_App_Unity is a mobile application using different tools of Augmented Reality for three differents used.  <br/>
 The first one is to try different furniture on a decoration to facilitate furniture choices and purchases.  <br/>
-The second one is to visualize in 3D, the different specific parts of a technical object like an engine. To help you to identife these element and understand its behaviour while you are working on the real object.   <br/>
+The second one is to visualize in 3D, the different specific parts of a technical object like an engine. To help you to identify this element and understand its behaviour while you are working on the real object.   <br/>
 The third one is an augmented card game with display 3D models on cards. <br/>
 
 This application is an AR demonstration project, running on Unity and based on the library ARFondation. LeanTouch and UI-Round-Corners. <br/>
@@ -33,7 +33,7 @@ Buttons: <br/>
 
 The functionality is using basic ARSession from ARFondation and the LeanTouch for the finger touch management. <br/>
 The user can zoom, rotate and move the engine and as well activate or not the view of precised components. <br/>
-It help the user to identife these elements and understand its behaviour while he is working on it.
+It helps the user to identify these elements and understand its behaviour while he is working on it.
 
 <img src="https://github.com/gdubrasquetd/AR_App_Unity/blob/main/EngineImage.jpg" width="170"/>
 
@@ -50,7 +50,7 @@ Visualise 3D characters anchored on the top of card game and interact with it. <
 Buttons: <br/>
 
 1 : Remove and reload all objects. <br/>
-2 : Lock the rotate axis of all objects. <br/>
+2 : Lock the rotatation axis of all objects. <br/>
 
 ## Installation
 
